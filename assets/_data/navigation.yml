@@ -1,0 +1,13 @@
+main:
+  - title: Home
+    url: /
+  - title: "About"
+    url: /about
+  - title: "Getting Started"
+    url: /getting-started
+  - title: "WDL Development"
+    url: /wdl-dev
+  - title: "Specification"
+    url: /spec
+  - title: "Blog"
+    url: https://dev.to/openwdl
