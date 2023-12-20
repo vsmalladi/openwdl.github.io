@@ -33,6 +33,8 @@ OpenWDL is led by a small core group who help govern the language specfication. 
 * **Amy Paguirigan**, Fred Hutch  
 * **Ruben Vorderman**, Leiden University Medical Center  
 * **Venkat Malladi**, Microsoft   
+* **Lee Pang**, Amazon
+* **Mark Schreiber**, Amazon
 
 ### Former Members
 * Brad Chapman

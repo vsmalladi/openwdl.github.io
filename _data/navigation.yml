@@ -9,5 +9,7 @@ main:
     url: /wdl-dev
   - title: "Specification"
     url: /spec
+  - title: "Documentation"
+    url: https://docs.openwdl.org
   - title: "Blog"
     url: https://dev.to/openwdl
